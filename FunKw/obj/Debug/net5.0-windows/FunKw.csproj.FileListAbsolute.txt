@@ -1,0 +1,44 @@
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.exe
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.deps.json
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.runtimeconfig.json
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.dll
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\ref\FunKw.dll
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\bin\Debug\net5.0-windows\FunKw.pdb
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw_MarkupCompile.cache
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw_MarkupCompile.lref
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.g.resources
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.AssemblyInfo.cs
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.dll
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\ref\FunKw.dll
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.pdb
+C:\Users\Student\Desktop\Jakub_Bartusiak_WPF_z1\FunKw\FunKw\obj\Debug\net5.0-windows\FunKw.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.exe
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.deps.json
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.dll
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\ref\FunKw.dll
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\bin\Debug\net5.0-windows\FunKw.pdb
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw_MarkupCompile.cache
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw_MarkupCompile.lref
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.g.resources
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.dll
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\ref\FunKw.dll
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.pdb
+C:\Users\Administrator\Desktop\C#\Quadratic function\FunKw\obj\Debug\net5.0-windows\FunKw.genruntimeconfig.cache
